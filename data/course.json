@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "335fc995-6d6e-1c24-6a25-5715fa17f765",
+      "d8e238b9-572a-1350-b105-64bcc323d658"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Cognitive & Behavioral Genetics",
+  "course_description": "How genetics can add to our understanding of cognition, language, emotion, personality, and behavior. Use of gene mapping to estimate risk factors for psychological disorders and variation in behavioral and personality traits. Mendelian genetics, genetic mapping techniques, and statistical analysis of large populations and their application to particular studies in behavioral genetics. Topics also include environmental influence on genetic programs, evolutionary genetics, and the larger scientific, social, ethical, and philosophical implications.\n",
+  "department_numbers": [
+    "9",
+    "7"
+  ],
+  "extra_course_numbers": "9.191,7.66J",
+  "primary_course_number": "9.19J",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
